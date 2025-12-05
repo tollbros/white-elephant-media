@@ -1,5 +1,5 @@
 
-# White Elephant Gift Exchange App - Medai Team Version
+# White Elephant Gift Exchange App - Media Team Version
 
 ## Live Site
 [Link to Live App](https://kayleeric7.github.io/white-elephant-media)
